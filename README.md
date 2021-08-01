@@ -8,6 +8,13 @@ Some random text to try [link](https://test.com).
 This is a *quote*:
 > Please note that this is something that was said at some point
 
+This is a code block:
+
+```
+<meta charset="UTF-8">
+<meta charset="UTF-8">
+```
+
 And a list:
 - Test
 - Testing
