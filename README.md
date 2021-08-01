@@ -10,7 +10,7 @@ This is a *quote*:
 
 This is a code block:
 
-```
+```css
 <meta charset="UTF-8">
 <meta charset="UTF-8">
 ```
